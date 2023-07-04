@@ -16,8 +16,8 @@ HandsOff Gesture Presentation is a Python-based web application created using th
 
 ## Requirements
 
-- Python (version X.X.X)
-- Flask (version X.X.X)
+- Python 
+- Flask 
 - Additional dependencies (list any additional libraries or frameworks required)
 
 ## Installation
