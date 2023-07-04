@@ -32,10 +32,11 @@ HandsOff Gesture Presentation is a Python-based web application created using th
    pip install -r requirements.txt
 
 3. Start the application:
+   ```shell
    python app.py
 
 ## Usage
 1. Upload your presentations by specifying the location where they are stored.
 2. Once the presentations are uploaded, a web browser window will open with the first slide.
 3. Use hand gestures to control the presentation.
-4. 4. Press q to quit.
+4. Press q to quit.
